@@ -1,0 +1,28 @@
+﻿@model List<CharityConnect.MVC.Models.NotificationViewModel>
+
+<h2>Notifications</h2>
+
+@if (!Model.Any())
+{
+    <p>No notifications found.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Message</th>
+                <th>Created At</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var note in Model)
+            {
+                <tr>
+                    <td>@note.Message</td>
+                    <td>@note.CreatedAt.ToString("g")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

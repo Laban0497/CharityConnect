@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\bin\Debug\net8.0\CharityConnect.Domain.deps.json
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\bin\Debug\net8.0\CharityConnect.Domain.dll
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\bin\Debug\net8.0\CharityConnect.Domain.pdb
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\bin\Debug\net8.0\CharityConnect.Shared.dll
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\bin\Debug\net8.0\CharityConnect.Shared.pdb
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\obj\Debug\net8.0\CharityConnect.Domain.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\obj\Debug\net8.0\CharityConnect.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\obj\Debug\net8.0\CharityConnect.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\obj\Debug\net8.0\CharityConnect.Domain.AssemblyInfo.cs
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\obj\Debug\net8.0\CharityConnect.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\obj\Debug\net8.0\CharityC.26FA0558.Up2Date
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\obj\Debug\net8.0\CharityConnect.Domain.dll
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\obj\Debug\net8.0\refint\CharityConnect.Domain.dll
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\obj\Debug\net8.0\CharityConnect.Domain.pdb
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Domain\obj\Debug\net8.0\ref\CharityConnect.Domain.dll

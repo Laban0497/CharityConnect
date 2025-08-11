@@ -1,0 +1,25 @@
+﻿@model List<CharityConnect.MVC.Models.DonationViewModel>
+
+<h2>💳 My Donations</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Donor</th>
+            <th>Recipient</th>
+            <th>Amount</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var donation in Model)
+        {
+            <tr>
+                <td>@donation.DonorName</td>
+                <td>@donation.RecipientName</td>
+                <td>KES @donation.Amount</td>
+                <td>@donation.Date.ToString("dd MMM yyyy")</td>
+            </tr>
+        }
+    </tbody>
+</table>

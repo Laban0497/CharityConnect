@@ -1,0 +1,6 @@
+@CharityConnectAPI_HostAddress = http://localhost:5120
+
+GET {{CharityConnectAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,102 @@
+﻿@using CharityConnect.MVC.Helpers
+@{
+    var token = Context.Session.GetString("AccessToken");
+    var isAuthenticated = !string.IsNullOrEmpty(token);
+    var role = isAuthenticated ? JwtHelper.GetUserRole(token) : null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CharityConnect.MVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CharityConnect.MVC.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-light bg-light border-bottom shadow-sm mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CharityConnect</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                        @if (isAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" href="/Dashboard">Dashboard</a>
+                            </li>
+
+                            @if (role == "Needy")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/HelpRequest/MyRequests">My Requests</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/HelpRequest/Create">New Request</a>
+                                </li>
+                            }
+                            else if (role == "Donor")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/Donation/MyDonations">My Donations</a>
+                                </li>
+                            }
+                            else if (role == "Admin")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/Admin/Report">Admin Report</a>
+                                </li>
+                            }
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="/Notification">Notifications</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-danger" href="/Account/Logout">Logout</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" href="/Account/Login">Login</a>
+                            </li>
+                        }
+                    </ul>
+
+                    @if (isAuthenticated)
+                    {
+                        <span class="navbar-text">
+                            Logged in as: <strong>@role</strong>
+                        </span>
+                    }
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted mt-auto">
+        <div class="container">
+            &copy; 2025 - CharityConnect.MVC | <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

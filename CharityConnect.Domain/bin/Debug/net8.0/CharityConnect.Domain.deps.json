@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CharityConnect.Domain/1.0.0": {
+        "dependencies": {
+          "CharityConnect.Shared": "1.0.0"
+        },
+        "runtime": {
+          "CharityConnect.Domain.dll": {}
+        }
+      },
+      "CharityConnect.Shared/1.0.0": {
+        "runtime": {
+          "CharityConnect.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CharityConnect.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CharityConnect.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

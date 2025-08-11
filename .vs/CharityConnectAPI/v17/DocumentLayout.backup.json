@@ -1,0 +1,613 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\controllers\\dashboardcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\controllers\\dashboardcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\dashboard\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\dashboard\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\dashboard\\donordashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\dashboard\\donordashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\dashboard\\needydashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\dashboard\\needydashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\donation\\mydonations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\donation\\mydonations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\services\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\services\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\models\\donationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\models\\donationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\controllers\\helprequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\controllers\\helprequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\admin\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\admin\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\models\\adminreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\models\\adminreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\notification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\notification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\models\\notificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\models\\notificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\dashboard\\needy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\dashboard\\needy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\dashboard\\donor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\dashboard\\donor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\dashboard\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\dashboard\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2B38A1-677D-496C-BB8B-1D7E3DB7523A}|CharityConnectAPI\\CharityConnectAPI.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnectapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2B38A1-677D-496C-BB8B-1D7E3DB7523A}|CharityConnectAPI\\CharityConnectAPI.csproj|solutionrelative:charityconnectapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\helprequest\\myrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\helprequest\\myrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\views\\helprequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\views\\helprequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\services\\helprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\services\\helprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\services\\baseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\services\\baseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|c:\\users\\user\\source\\repos\\charityconnectapi\\charityconnect.mvc\\models\\helprequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685EF544-2E40-44AD-80BA-582303559162}|CharityConnect.MVC\\CharityConnect.MVC.csproj|solutionrelative:charityconnect.mvc\\models\\helprequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CharityConnect.MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T14:07:30.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Program.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:42:09.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEoAAACo//////8hwF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T07:17:54.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:59:55.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:58:35.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T07:18:30.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:01:56.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Dashboard\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T11:29:08.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\DashboardController1.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Controllers\\DashboardController1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\DashboardController1.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Controllers\\DashboardController1.cs",
+              "ViewState": "AgIAAAgAAAAANjMzMzMTwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:10:35.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DonorDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\DonorDashboard.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Dashboard\\DonorDashboard.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\DonorDashboard.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Dashboard\\DonorDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T11:27:03.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NeedyDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\NeedyDashboard.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Dashboard\\NeedyDashboard.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\NeedyDashboard.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Dashboard\\NeedyDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T11:27:43.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Helper\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Helper\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Helper\\JwtHelper.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Helper\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:24:23.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyDonations.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Donation\\MyDonations.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Donation\\MyDonations.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Donation\\MyDonations.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Donation\\MyDonations.cshtml",
+              "ViewState": "AgIAAAYAAAAAZWZmZmYkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T11:10:02.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DonationController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\DonationController.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Controllers\\DonationController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\DonationController.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Controllers\\DonationController.cs",
+              "ViewState": "AgIAAAUAAACALjMzMzMLwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:08:14.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DonationService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Services\\DonationService.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Services\\DonationService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Services\\DonationService.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Services\\DonationService.cs",
+              "ViewState": "AgIAAAsAAACAl5mZmZkhwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:07:15.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DonationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Models\\DonationViewModel.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Models\\DonationViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Models\\DonationViewModel.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Models\\DonationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:06:30.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAACAMzMzMzMDwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:44:54.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HelpRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\HelpRequestController.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Controllers\\HelpRequestController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\HelpRequestController.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Controllers\\HelpRequestController.cs",
+              "ViewState": "AgIAAB8AAAAAMTMzMzMpwCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:43:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:42:14.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Admin\\Report.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Admin\\Report.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Admin\\Report.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Admin\\Report.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T11:02:21.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Services\\AdminService.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:59:01.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Models\\AdminReportViewModel.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Models\\AdminReportViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Models\\AdminReportViewModel.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Models\\AdminReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:58:12.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Notification\\Index.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Notification\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Notification\\Index.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Notification\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T10:44:32.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Services\\NotificationService.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwPR0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:39:25.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotificationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Models\\NotificationViewModel.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Models\\NotificationViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Models\\NotificationViewModel.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Models\\NotificationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:37:31.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T08:34:23.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Needy.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\Needy.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Dashboard\\Needy.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\Needy.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Dashboard\\Needy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T08:13:44.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Donor.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\Donor.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Dashboard\\Donor.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\Donor.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Dashboard\\Donor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T08:09:24.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\Admin.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\Dashboard\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\Dashboard\\Admin.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\Dashboard\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T08:12:46.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\HelpRequest\\Create.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\HelpRequest\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\HelpRequest\\Create.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\HelpRequest\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T10:49:29.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MyRequests.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\HelpRequest\\MyRequests.cshtml",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Views\\HelpRequest\\MyRequests.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Views\\HelpRequest\\MyRequests.cshtml",
+              "RelativeToolTip": "CharityConnect.MVC\\Views\\HelpRequest\\MyRequests.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T10:50:46.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnectAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CharityConnectAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnectAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CharityConnectAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAABwzczMzMw4wBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:24:40.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HelpRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Services\\HelpRequestService.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Services\\HelpRequestService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Services\\HelpRequestService.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Services\\HelpRequestService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:14:28.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseApiService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Services\\BaseApiService.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Services\\BaseApiService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Services\\BaseApiService.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Services\\BaseApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:41:11.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HelpRequestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Models\\HelpRequestViewModel.cs",
+              "RelativeDocumentMoniker": "CharityConnect.MVC\\Models\\HelpRequestViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CharityConnectAPI\\CharityConnect.MVC\\Models\\HelpRequestViewModel.cs",
+              "RelativeToolTip": "CharityConnect.MVC\\Models\\HelpRequestViewModel.cs",
+              "ViewState": "AgIAAAEAAABgZmZmZmYkwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:39:05.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

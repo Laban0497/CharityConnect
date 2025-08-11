@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\bin\Debug\net8.0\CharityConnect.Shared.deps.json
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\bin\Debug\net8.0\CharityConnect.Shared.dll
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\bin\Debug\net8.0\CharityConnect.Shared.pdb
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\obj\Debug\net8.0\CharityConnect.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\obj\Debug\net8.0\CharityConnect.Shared.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\obj\Debug\net8.0\CharityConnect.Shared.AssemblyInfo.cs
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\obj\Debug\net8.0\CharityConnect.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\obj\Debug\net8.0\CharityConnect.Shared.dll
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\obj\Debug\net8.0\refint\CharityConnect.Shared.dll
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\obj\Debug\net8.0\CharityConnect.Shared.pdb
+C:\Users\USER\source\repos\CharityConnectAPI\CharityConnect.Shared\obj\Debug\net8.0\ref\CharityConnect.Shared.dll
